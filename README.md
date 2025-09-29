@@ -85,11 +85,6 @@ Every contribution helps make chemical safety more accessible to everyone.
 We aim for a balance between **original fidelity** and **machine usability**:
 
 - 📄 **Original PDFs** — SDS / MSDS as released by Gonzo Products
-- 🗃 **Structured Data** — JSON, YAML, or CSV versions with fields like:
-
-  - `product_name`, `version_date`, `hazards`, `composition`, `first_aid`, `handling`, `storage`
-
-- 📋 **Index / Metadata Files** — e.g., `products.json`, `index.csv` listing entries and file paths
 - 📆 **Versioning / History** — multiple SDS versions preserved with date or version tags
 
 This structure allows users to access **raw documents** and **parsed datasets**.
